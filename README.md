@@ -6,6 +6,9 @@
 
 ชื่อ-สกุล : ภูรินท์ อินทจักร์ (Phurin Inthajak)
 
+ลิงค์ : lab10-2568-670610723.vercel.app
+
+
 ---
 
 หลังจากการ Fork และ Clone repository แล้ว, ให้เปิดโฟลเดอร์ด้วย VSCode และรันคำสั่งต่อไปนี้ใน terminal:
