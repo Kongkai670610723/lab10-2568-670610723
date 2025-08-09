@@ -1,6 +1,9 @@
 import { BsMailbox2, BsFillPinMapFill } from "react-icons/bs";
 
-export const UserCardDetail = ({ email, address }) => {
+//ทำการ import type สำหรับ props ของ UserCardDetail
+import { type UserCardDetailProps } from "../libs/CardUserType";
+
+export const UserCardDetail = ({ email, address }: UserCardDetailProps) => {
   return (
     <div className="text-center">
       <p>
